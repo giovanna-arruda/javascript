@@ -1,10 +1,10 @@
-/*
-Analise o bloco de código abaixo e determine o valor final da variável resultado:
-*/
+//* Analise o bloco de código abaixo e determine o valor final da variável resultado:
+
 let x = 10;
 x += 5;
 let y = "15";
 let resultado = (x === y);
+
 /*
 A) true
 B) false (CORRETA)
